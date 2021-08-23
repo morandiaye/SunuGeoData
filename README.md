@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of SunuGeoData is to ...
+The goal of SunuGeoData is to  facilitate access of geospatial data related to senegal
 
 ## Installation
 
