@@ -10,7 +10,8 @@ The goal of SunuGeoData is to ...
 
 This package isn't available in CRAN
 Installation require 
-devtools::install_github("morandiaye/SunuGeoData")
+
+**devtools::install_github("morandiaye/SunuGeoData")
 
 ## Example
 set a path and read the data
