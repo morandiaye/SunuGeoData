@@ -1,0 +1,14 @@
+Package: SunuGeoData
+Type: Package
+Title: Geospatial Data for Senegal
+Version: 0.1.0
+Author: Mor Ndiaye
+Maintainer: The package maintainer <morniang@live.fr>
+Description: This package make easy access to spatial data related to Senegal.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    magrittr,
+    sf
+RoxygenNote: 7.1.1
