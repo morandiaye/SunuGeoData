@@ -23,5 +23,5 @@ sunu_geodata <- function(path){
 #' @examples
 #' list_all_geodata()
 list_all_geodata <- function(){
-  list.files("inst/extdata")
+  list.files("inst\\extdata")
 }
